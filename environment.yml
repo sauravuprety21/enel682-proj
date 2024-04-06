@@ -1,4 +1,4 @@
-name: rosbag_env
+name: proj682_env
 channels:
   - defaults
   - conda-forge
