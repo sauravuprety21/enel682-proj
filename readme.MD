@@ -1,4 +1,4 @@
-# Example workspace demonstraing data extraction from ROS2 bags using Python
+# Vehicle Motion Classification using Inertial Meaurements - LiD ARS
 `conda config --append channels conda-forge`
 `conda env create --file environment.yaml `
 `conda activate proj682_env`
